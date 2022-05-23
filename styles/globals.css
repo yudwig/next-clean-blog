@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.article-image-container span {
+  position: static !important;
+}
+
+.article-image-container img {
+  position: static !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+pre > pre {
+  margin: 0 !important;
+  position: static !important;
+}
