@@ -1,4 +1,5 @@
 # next-clean-blog
+A sample implementation for blog-app based on clean architecture using Next.js and TypeScript.
 
 Deployed on Vercel: https://next-clean-blog.vercel.app/
 
